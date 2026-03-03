@@ -1,0 +1,10 @@
+# SQLAlchemy ORM App Requirements
+# Core ORM and Database Driver
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Data Generation for seed.py
+faker>=19.0.0
+
+# Optional: Environment variables management
+python-dotenv>=1.0.0
